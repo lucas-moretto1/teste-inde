@@ -56,7 +56,7 @@ body{
     content: url('../images/seta-baixo.png');
     position: absolute;
     bottom: 10px;
-    animation: moverseta 0.65s infinite alternate ease-in-out;
+    animation: moverseta 0.7s infinite alternate ease-in-out;
 }
 
 @-webkit-keyframes moverseta{
